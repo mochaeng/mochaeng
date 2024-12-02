@@ -1,11 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 
+My name is Luiz Campos (**@MochaEng**). I'm currently an undergrad speaking Portuguese and English. I have experience with _machine learning_ and _federated learning_. I also have background in web-dev, including backends with Go and frontends with React).
 
-I'm currently an undergraduate student interested in anything **Distributed Systems** and **Computer Networks** related. I'm also researching/working on my final project on the topic of Federated Learning. 
+I like puzzles, music, philosophy, and learning new things every day.
 
-I like free software, and in my free time, I enjoy messing with linux 🐧, writing configuration files to customize stuff 🎨, and doing some game dev with Godot 🎮.
+```ocaml
+let () = IO.print_line $"Hello, I am Luiz!"
+```
 
-- ✏️ Languages: Go, Python, Java, TypeScript.
-- 💻 Tech: Docker, Linux, Godot.
-
-Check out some of my projects below! 😊
+[![Programming Languages](https://skillicons.dev/icons?i=ts,py,go,rust,ocaml)](https://skillicons.dev)
