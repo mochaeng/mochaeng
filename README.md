@@ -1,11 +1,12 @@
-# Hi there 👋
+# MochaEng 🏴‍☠️
 
-My name is Luiz Campos (**@MochaEng**). I'm a recent graduate who speaks Portuguese and English. I have experience with _machine learning_ and _federated learning_. I also have background in web-dev, including backends with Go and frontends with React).
+web development
+federated learning
+distributed systems
+computer networks
 
-I like puzzles, music, philosophy, and learning new things every day.
+i speak portuguese & english
 
-```ocaml
-let () = IO.print_line $"Hello, I am Luiz!"
-```
+#
 
 [![Programming Languages](https://skillicons.dev/icons?i=ts,py,go,rust,ocaml)](https://skillicons.dev)
