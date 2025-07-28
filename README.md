@@ -1,11 +1,13 @@
 # MochaEng 🏴‍☠️
 
-web development
-federated learning
-distributed systems
-computer networks
+github.com/mochaeng  
 
-i speak portuguese & english
+web development  
+federated learning  
+distributed systems  
+computer networks  
+
+i speak portuguese & english  
 
 #
 
